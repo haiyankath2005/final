@@ -1,0 +1,81 @@
+.form{
+  font-size: calc(19px);
+  padding-left: 310px;
+  padding-top: 90px;
+}
+
+.student-father{
+  margin-bottom: 10px;
+}
+
+.StudentName{
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.FatherName{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.gender{
+  margin-bottom: 8px;
+}
+
+.dob{
+  margin-left: 385px;
+  margin-top: -80px;
+  margin-bottom: 10px;
+}
+
+.city-course{
+  margin-bottom: 10px;
+}
+
+.city{
+  margin-top: 0px;
+}
+
+.course{
+  margin-top: 0px;
+}
+
+.email-number{
+  margin-bottom: 10px;
+}
+
+.email{
+  margin-top: 0px;
+}
+
+.number{
+  margin-top: 0px;
+}
+
+.cnic{
+  margin-bottom: 10px;
+}
+
+.student-cnic{
+  margin-top: 0px;
+}
+
+.father-cnic{
+  margin-top: 0px;
+}
+
+.address{
+  margin-bottom: 15px;
+}
+
+.qualification{
+  margin-bottom: 20px;
+}
+
+.filechoose{
+  margin-bottom: 50px;
+}
+
+.submit{
+  margin-bottom: 10px;
+}
